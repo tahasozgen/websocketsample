@@ -1,5 +1,8 @@
 package tahasozgen;
 
+/**
+ * Hello message
+ * */
 public class HelloMessage {
 
 	private String name;
