@@ -1,7 +1,7 @@
 package tahasozgen;
 
 /**
- * Hello message
+ * Hello message -2
  * */
 public class HelloMessage {
 
