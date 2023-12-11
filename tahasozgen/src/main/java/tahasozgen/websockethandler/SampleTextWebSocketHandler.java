@@ -1,4 +1,4 @@
-package tahasozgen.websocketisleyici;
+package tahasozgen.websockethandler;
 
 import org.json.JSONObject;
 import org.springframework.web.socket.TextMessage;
